@@ -10,7 +10,7 @@ function pJS_desktop(){
       size_random: true,
       nb: 150,
       line_linked: {
-        enable_auto: true,
+        enable_auto: false,
         distance: 250,
         color: '#fff',
         opacity: 0.5,
